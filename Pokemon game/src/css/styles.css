@@ -1,0 +1,21 @@
+html, body {
+    background-image: url("../assets/pokemon.jpg");
+    background-size: cover;
+    margin: 0px;
+
+}
+.pokelogo {
+    margin-left: 800px;
+    margin-top: -800px;
+    max-width: 410px;
+    max-height: 310px;
+}
+.ansbtn {
+    margin-left: 50px;
+    background-color: #800000;
+    color: #DED40C;
+    border-radius: 10px;
+    border: 3px solid rgba(0, 0, 0, 0.2);
+    width: 150px;
+    height: 30px;
+}
